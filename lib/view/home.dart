@@ -13,7 +13,7 @@ class _HomeState extends State<Home> {
   late TextEditingController measureNum; // 측정회차
   late TextEditingController age; // 연령
   late int _radioValue; // 라디오버튼
-  late String agePart; // 연령구분1
+  late String agePart; // 연령구분121
   late int ageNum;
   late double rank;
 
